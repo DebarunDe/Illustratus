@@ -1,0 +1,50 @@
+TODO TOMORROW:
+- Convert Player Statistics to Fpoints
+
+Pass Yard: Yards/25
+Pass Td: Td*4
+Int: -Int
+
+Rush Yard: Yards/10
+Rush Td: Td * 6
+
+Rec Yard: Yards/10
+Rec: Recs
+Rec Td: Td * 6
+
+2pt = 2pt*2
+Fumble lost = -Fumble*2
+
+Fg 0-19: Fg*2
+Fg 20-29: Fg*2
+Fg 30-39: Fg*3
+Fg 40-49: Fg*4
+Fg 50+: Fg*5
+PAT: PAT
+
+Sack = Sack
+Int = Int*2
+Fum Rec = Rec*2
+TD = Td*6
+Blk Kick = Kick*1
+Ret TD = Td*6
+Allow 1-6 = -Point*3
+Pts Allow 7-13 = -Point*3
+Pts Allow 14-20 = -Point*3
+Pts Allow 21-27 = -Point*3
+Pts Allow 28-34 = -Point*3
+Pts Allow 35+ = -Point*3
+
+
+Packages:
+yahoo fantasy api
+yahoo fantasy oauth
+numpy
+dataclasses
+
+App ID
+ofTAxAe3
+Client ID (Consumer Key)
+dj0yJmk9SGQwU1JBUmhYU3RmJmQ9WVdrOWIyWlVRWGhCWlRNbWNHbzlNQT09JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTM1
+Client Secret (Consumer Secret)
+1987e7c6a657a2c9d2959877ca6d31b95278219f
